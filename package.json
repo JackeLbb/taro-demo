@@ -55,7 +55,7 @@
     "@tarojs/taro-router-rn": "^2.2.6",
     "@tarojs/taro-redux-rn": "^2.2.6",
     "react": "16.8.0",
-    "react-native": "0.59.9",
+    "react-native": "0.62.3",
     "tslib": "^1.8.0"
   },
   "devDependencies": {
